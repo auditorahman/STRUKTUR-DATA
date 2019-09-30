@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526363738 source:d:\codeblocks\modul 2\tugas tambahan asslab\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
