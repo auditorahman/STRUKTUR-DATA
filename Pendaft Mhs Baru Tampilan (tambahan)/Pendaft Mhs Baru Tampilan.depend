@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1524481353 source:d:\codeblocks\modul 1\pendaft mhs baru tampilan\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<string>
+
+1524560430 source:d:\teknik informatika 2017\semester 2\struktur data\praktikum struktur data 2018\modul 1\pendaft mhs baru tampilan (tambahan)\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<string>
+
